@@ -23,6 +23,8 @@
         <vertx.version>3.9.0</vertx.version>
         <auth0.jwt.version>3.10.2</auth0.jwt.version>
         <log4j.version>2.13.2</log4j.version>
+        <sonar.organization>anantk24</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <modules>
